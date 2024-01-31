@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS db_php4;
+USE db_php4;

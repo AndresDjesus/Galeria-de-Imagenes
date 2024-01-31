@@ -1,0 +1,18 @@
+
+.contenedor-imagenes img {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+}
+
+img#imagen2 {
+    width: 500px;
+    height: 150px;
+    margin: 10px;
+}
+
+
+.contenedor-imagenes {
+    text-align: center;
+    
+}
